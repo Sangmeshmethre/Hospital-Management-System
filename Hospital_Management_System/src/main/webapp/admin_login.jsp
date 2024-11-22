@@ -24,7 +24,7 @@
 					<div class="card-body">
 					<p class="fs-4 text-center">AdminLogin</p>
 					
-					<form action="doclogin" method="post">
+					<form action="#" method="post">
 						<div class="mb-3">
 							<label class="form-label">Email address</label>
 							<input required 

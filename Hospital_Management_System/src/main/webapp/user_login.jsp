@@ -24,7 +24,7 @@
 					<div class="card-body">
 					<p class="fs-4 text-center">User Login</p>
 					
-					<form action="doclogin" method="post">
+					<form action="#" method="post">
 						<div class="mb-3">
 							<label class="form-label">Email address</label>
 							<input required 
@@ -39,7 +39,7 @@
 						
 						<button type="submit" class="btn bg-success text-white col-md-12">Login</button>		
 					</form>
-					<br>Don't have an account? <a href="singup.jsp" class="text-decoration-none">
+					<br>Don't have an account? <a href="signup.jsp" class="text-decoration-none">
 						create one</a>
 				</div>
 				</div>
